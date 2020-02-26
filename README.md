@@ -1,0 +1,1 @@
+A little nodejs app showcasing some basic node features 
